@@ -36,22 +36,6 @@ This data set consists Information about the passengers of RMS Titanic ship And 
  1. Loading the data
    2. Describe the data
    3. Feature Extraction (Countplot, Histograms , PDF & CDF)
-         1. Feature 1: Survived
-         2. Feture 2 : Sex
-         3. Feature 3: Pclass
-         4. Feature 4: Age
-         5. Feature 5: Parch
-         6. Feature 6: Fare
-         7. Feature 7 :Embarked
    4.Graphical Bi-variate Analysis  
-   5. Mean,Median,  Percentile, Quantile, IQR, MAD and Std-dev(Only three features)
-         5.1. Age
-             5.1.1.Box plot and Whiskers 
-             5.1.2.Violin plot 
-         5.2. Fare
-             5.2.1.Box plot and Whiskers 
-             5.2.2.Violin plot
-         5.3  Pclass
-             5.3.1.Box plot and Whiskers  
-             5.3.2.Violin plot
+   5. Mean,Median,  Percentile, Quantile, IQR, MAD and Std-dev(Only three features
    6. Correlation Matrix
